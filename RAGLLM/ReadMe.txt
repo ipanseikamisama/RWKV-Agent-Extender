@@ -1,0 +1,9 @@
+文件夹中只包含了我自己编写的文件，运行还需要依赖项目中的文件，详细可参考github上的ChatRWKV项目
+类：PromptLoader
+DataReader
+DataProcessor
+DataQuery
+
+获取路径函数在another_test.py文件中
+启动文件在.\idea\V2目录下，文件名chat_launch.py
+prompt在prompt目录下
