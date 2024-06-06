@@ -1,0 +1,1 @@
+{"save": "file_save.json", "embedding_model": "rbt6", "chroma_path": "D:/rwkv_runner/rwkv_extend/vector_temp", "sql_path": "mysql://root:Xingyuelingfeng1m@localhost/db2", "temp_sql_path": "mysql://root:Xingyuelingfeng1m@localhost/rwkv_temp_database"}
